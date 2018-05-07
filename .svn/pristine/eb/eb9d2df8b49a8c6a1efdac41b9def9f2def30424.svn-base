@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xxhdpi"
+    format="7"
+    timestamp="1303506427889190"
+    token="-5963571896820522285" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="C:\Users\m.korpal\AndroidStudioProjects\MenuGlowne\app\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
+
+    <build timestamp="1301687323376764" >
+        <artifact
+            location="C:\Users\m.korpal\AndroidStudioProjects\MenuGlowne\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="1301859259341532"
+        verifier="FIELD_TYPE_CHANGE" >
+        <artifact
+            location="C:\Users\m.korpal\AndroidStudioProjects\MenuGlowne\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\m.korpal\AndroidStudioProjects\MenuGlowne\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="1302218671247830"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\m.korpal\AndroidStudioProjects\MenuGlowne\app\build\intermediates\builds\debug\1302218671247830\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="1303443901738548"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\m.korpal\AndroidStudioProjects\MenuGlowne\app\build\intermediates\builds\debug\1303443901738548\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build timestamp="1303506427889190" >
+        <artifact
+            location="C:\Users\m.korpal\AndroidStudioProjects\MenuGlowne\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+    </build>
+
+</instant-run>
